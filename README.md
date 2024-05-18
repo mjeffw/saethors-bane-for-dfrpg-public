@@ -24,7 +24,7 @@ Clicking on a compendium pack will open a window inside Foundry with an alphabet
 
 ## Addenda
 
-<div style="font-size: 80%">
+<div style="font-size: 80%;">
 <p>For more Dungeon Fantasy RPG (Powered by GURPS) material see <a href="https://gaming-ballistic.myshopify.com/collections/all-products?filter.p.m.my_fields.collection=Dungeon+Fantasy+RPG+%28Powered+by+GURPS%29&amp;sort_by=title-ascending">Gaming Ballistic</a>.</p>
 
 <p>Saethor&#39;s Bane and Saethor&#39;s Bane Foundry VTT Module ©2024 by Gaming Ballistic, LLC</p>
