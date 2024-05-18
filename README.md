@@ -17,11 +17,13 @@ This is the public repository for support of the Saethor's Bane Foundry VTT modu
 This Foundry VTT Module for Saethor's Bane provides the pre-generated PCs, NPCs, monsters, and adversaries as Foundry Actors. It also includes maps and scenes from the book. It requires the [GURPS Game Aid for Foundry VTT](https://foundryvtt.com/packages/gurps).
 
 ##Using this Module##
+
 After installation into your Foundry instance, you access the module by selecting the "Compendiums" tab in the sidebar on the right of the Foundry window. There should be "Saethor's Bane Actors" and "Saethor's Bane Scenes" compendium packs available.
 
 Clicking on a compendium pack will open a window inside Foundry with an alphabetically sorted list of all the compendium entries.
 
 ##Addenda##
+
 For more Dungeon Fantasy RPG (Powered by GURPS) material see [Gaming Ballistic](https://gaming-ballistic.myshopify.com/collections/all-products?filter.p.m.my_fields.collection=Dungeon+Fantasy+RPG+%28Powered+by+GURPS%29&sort_by=title-ascending).
 
 Saethor's Bane and Saethor's Bane Foundry VTT Module ©2024 by Gaming Ballistic, LLC
