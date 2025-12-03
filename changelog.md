@@ -17,7 +17,7 @@
   - Remove development resources.
 - **2.0.2** Jun 3, 2024
   - Add Dark Legionary 2 Human with Crossbow, Long Spear, Shield and Shortsword to compendium.
-- **2.1.0** 
+- **2.1.0** Dec 2, 2025
   - Fix token image borders.
   - Convert to Foundry Items.
   - Fix CSS for bullets and rollable fields.
