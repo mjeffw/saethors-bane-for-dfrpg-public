@@ -4,6 +4,9 @@ A Foundry VTT Add-On Module by Gaming Ballistic
 
 This is the public repository for support of the Saethor's Bane Foundry VTT module.
 
+### [Change Log](changelog.md)
+
+
 <img alt="" height="366" src="https://gamingballistic.com/wp-content/uploads/2024/05/Foundry-VTT-Module-Hero-Image.jpg" style="float: right;" width="268">
 
 ## Saethor's Bane
